@@ -43,7 +43,7 @@ cta:
     label: Contact Us
     link: contact
 funfacts:
-  enable: true
+  enable: false
   title: Fun Facts About Us
   description: "'Far far away, behind the word mountains, far from the countries Vokalia
     and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove
