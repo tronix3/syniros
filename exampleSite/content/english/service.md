@@ -55,9 +55,9 @@ service:
     content: We increase your social media following and utilize silent marketing
       to bring in more customers
   - icon: fab fa-bitcoin
-    name: Development
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    name: Crypto & NFTs
+    content: We have specialists who can help your business integrate Cryptocurrency
+      and NFT's.
   - icon: fas fa-globe-asia
     name: Industries
     content: We have worked across many industries, our specialty is digital and tech
