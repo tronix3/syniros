@@ -54,7 +54,7 @@ service:
     name: Social Media
     content: We increase your social media following and utilize silent marketing
       to bring in more customers
-  - icon: fas fa-leaf
+  - icon: fab fa-bitcoin
     name: Development
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut
