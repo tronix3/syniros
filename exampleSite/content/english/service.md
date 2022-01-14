@@ -1,6 +1,6 @@
 ---
 title: Service
-description: this is meta description
+description: Services we offer to our customers.
 bg_image: images/feature-bg.jpg
 layout: service
 about:
@@ -54,10 +54,6 @@ service:
     name: Crypto & NFTs
     content: We have specialists who can help your business integrate Cryptocurrency
       and NFT's.
-  - icon: fas fa-globe-asia
-    name: Industries
-    content: We have worked across many industries, our specialty is digital and tech
-      businesses
 cta:
   enable: true
 
