@@ -56,8 +56,8 @@ service:
       tempor incididunt ut
   - icon: fas fa-headphones-alt
     name: Social Media
-    content: We increase your social media following and utilize marketing to bring
-      in more customers
+    content: We increase your social media following and utilize silent marketing
+      to bring in more customers
   - icon: fas fa-leaf
     name: Development
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
