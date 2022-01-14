@@ -3,9 +3,8 @@ banner:
   enable: true
   bg_image: images/slider-bg.jpg
   bg_overlay: true
-  title: 'SEO, Marketing, <br/> & Web Development '
-  content: You want more customers and more revenue. We deliver through SEO, Marketing,
-    Design & Development, & Social Media
+  title: 'Great Website at the Top of Google, <br/> & Bring In Customers '
+  content: More customers, more revenue with SEO, Marketing, Websites, & Social Media
   button:
     enable: true
     label: Contact Us
