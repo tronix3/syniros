@@ -41,9 +41,8 @@ service:
   description: 'Some of what we do '
   service_item:
   - icon: fas fa-bullseye
-    name: Branding
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    name: SEO
+    content: We have moved clients up to number 1 on Google and Bing search
   - icon: fas fa-layer-group
     name: Web Design
     content: High converting & low bounce rates
