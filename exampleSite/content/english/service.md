@@ -18,7 +18,7 @@ about:
     dolore officia adipisci neque!
   image: images/company/company-group-pic.jpg
 featured_service:
-  enable: true
+  enable: false
   service_item:
   - name: Interface Design
     icon: fas fa-flask
