@@ -36,13 +36,11 @@ service:
 cta:
   enable: true
   bg_image: images/call-to-action-bg.jpg
-  title: We design delightful digital experiences.
-  content: Read more about what we do and our philosophy of design. Judge for yourself
-    The work and results <br> we’ve achieved for other clients, and meet our highly
-    experienced Team who just love to design.
+  title: Websites
+  content: More than a beautiful website design<br> practical, fast, and high converting.
   button:
     enable: true
-    label: Tell Us Your Story
+    label: Contact Us
     link: contact
 funfacts:
   enable: true
